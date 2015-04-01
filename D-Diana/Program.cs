@@ -84,7 +84,7 @@ namespace D_Diana
 
             //Combo
             _config.AddSubMenu(new Menu("Kombo", "Kombo"));
-            _config.SubMenu("Kombo").AddItem(new MenuItem("UseIgnitecombo", "Use Ignite(rush for it)")).SetValue(true);
+            _config.SubMenu("Kombo").AddItem(new MenuItem("KombodaIgniteKullanımı", "Ignite Kullan(rush for it)")).SetValue(true);
             _config.SubMenu("Kombo").AddItem(new MenuItem("smiteKombo", "Use Smite in target")).SetValue(true);
             _config.SubMenu("Kombo").AddItem(new MenuItem("UseQCombo", "Use Q")).SetValue(true);
             _config.SubMenu("Kombo").AddItem(new MenuItem("UseWCombo", "Use W")).SetValue(true);
