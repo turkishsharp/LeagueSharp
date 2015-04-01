@@ -1,2 +1,0 @@
-C:\Users\excalibur05\documents\visual studio 2013\Projects\ChatBanımVar\ChatBanımVar\bin\Release\ChatBanımVar.exe.config
-C:\Users\excalibur05\documents\visual studio 2013\Projects\ChatBanımVar\ChatBanımVar\obj\Debug\ChatBanımVar.csprojResolveAssemblyReference.cache
